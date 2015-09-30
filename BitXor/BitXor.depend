@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443184722 source:c:\users\lkolt\desktop\Практикум\c\2.10.15\bitxor\main.c
+	<stdio.h>
+	<stdlib.h>
+
