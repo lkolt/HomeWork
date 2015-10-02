@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443770529 source:c:\users\lkolt\desktop\Практикум\c\2.10.15\conditional\main.c
+	<stdio.h>
+	<stdlib.h>
+
