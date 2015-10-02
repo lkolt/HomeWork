@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int BitOr(int x, int y) // ~((~x)&(~y));
+int bitOr(int x, int y) // ~((~x)&(~y));
 {
     int ax = ~x;
     int ay = ~y;
@@ -10,13 +10,13 @@ int BitOr(int x, int y) // ~((~x)&(~y));
     return res;
 }
 
-int BitXor(int x, int y) // (((~x) & y)|(x & (~y)))
+int bitXor(int x, int y) // (((~x) & y)|(x & (~y)))
 {
     int ax = ~x;
     int ay = ~y;
     int res1 = ax & y;
     int res2 = x & ay;
-    int res = BitOr(res1, res2);
+    int res = bitOr(res1, res2);
     return res;
 }
 
@@ -25,6 +25,6 @@ int main()
 
     int x, y;
     scanf("%d %d", &x, &y);
-    printf("%d", BitXor(x, y));
+    printf("%d", bitXor(x, y));
     return 0;
 }
