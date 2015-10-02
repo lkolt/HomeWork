@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int BitAnd(int x, int y) // res = ~((~x) | (~y));
+int bitAnd(int x, int y) // res = ~((~x) | (~y));
 {
     int ax = ~x;
     int ay = ~y;
@@ -15,7 +15,7 @@ int main()
 
     int x, y;
     scanf("%i %i", &x, &y);
-    printf("%i", BitAnd(x, y));
+    printf("%i", bitAnd(x, y));
 
     return 0;
 }

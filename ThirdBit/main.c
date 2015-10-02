@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int ThirdBit() // 00100100...100100
+int thirdBit() // 00100100...100100
 {
     int res = 4; // 100
     res = (res << 3) | res; // 100000 | 100 = 100100
@@ -14,6 +14,6 @@ int ThirdBit() // 00100100...100100
 
 int main()
 {
-    printf("%d", ThirdBit());
+    printf("%d", thirdBit());
     return 0;
 }
