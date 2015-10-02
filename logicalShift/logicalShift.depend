@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443777258 source:c:\users\lkolt\desktop\Практикум\c\2.10.15\logicalshift\main.c
+	<stdio.h>
+	<stdlib.h>
+
