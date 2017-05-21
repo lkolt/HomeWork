@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1494847610 source:c:\users\lkolt\desktop\Работа\pmpu\ilya2017\book\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<fstream>
+	<cstdlib>
+	"persontest.h"
+
+1493317359 c:\users\lkolt\desktop\Работа\pmpu\ilya2017\book\unit.h
+	<iostream>
+	<ctime>
+	<cstdio>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<vector>
+
+1493317341 source:c:\users\lkolt\desktop\Работа\pmpu\ilya2017\book\unit.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<fstream>
+	<cstdlib>
+	"unit.h"
+
+1494941673 c:\users\lkolt\desktop\Работа\pmpu\ilya2017\book\persontest.h
+	<iostream>
+	<ctime>
+	<cstdio>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<vector>
+
+1494941673 source:c:\users\lkolt\desktop\Работа\pmpu\ilya2017\book\persontest.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<fstream>
+	<map>
+	<cstdlib>
+	"persontest.h"
+

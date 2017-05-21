@@ -1,0 +1,22 @@
+kfc
+3 2
+food
+10
+3
+computer
+2
+building
+1
+workers
+5
+kfc
+6 3
+food
+jhjh
+3
+workers
+7
+computer
+kdlkh
+building
+2

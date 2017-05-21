@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1495023933 source:c:\users\lkolt\desktop\Работа\pmpu\timur\unit\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+	"unit.h"
+
+1495023919 c:\users\lkolt\desktop\Работа\pmpu\timur\unit\unit.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<math.h>
+	<map>
+
+1495024072 source:c:\users\lkolt\desktop\Работа\pmpu\timur\unit\unit.cpp
+	<iostream>
+	"unit.h"
+
+1495027721 source:c:\users\lkolt\desktop\Работа\pmpu\timur\unit\list.cpp
+	<iostream>
+	"unit.h"
+
